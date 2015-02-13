@@ -6,7 +6,8 @@
 //  Copyright (c) 2015년 practice. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
+@import Cocoa;
+//#import <Cocoa/Cocoa.h>
 
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 
